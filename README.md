@@ -3,7 +3,10 @@
 # ALF Retail Sales Analysis (2023–2024)
 
 ## Project Overview
-This project analyzes sales performance for a fictional retail company (ALF) using transactional sales data from 2023–2024.
+This project analyzes sales performance for ALF retail limited  using transactional sales data from 2023–2024.
+
+## Project Summary
+This project analyzes transactional sales data for ALF retail limited to reveal performance trends, revenue drivers, and actionable recommendations using Power BI and Excel.
 
 ## Objectives
 - Analyze total sales, profit, and profit margin
@@ -28,3 +31,5 @@ This project analyzes sales performance for a fictional retail company (ALF) usi
 - Interactive Power BI dashboard
 - Executive summary report with insights and recommendations
 
+
+<img width="1160" height="654" alt="image" src="https://github.com/user-attachments/assets/179c98d0-11bd-4d13-bb52-b72b7126475e" />
