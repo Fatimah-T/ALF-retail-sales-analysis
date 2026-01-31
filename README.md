@@ -36,4 +36,4 @@ This project analyzes transactional sales data for ALF retail limited to reveal 
 - Executive summary report with insights and recommendations
 
 
-<img width="1160" height="654" alt="image" src="https://github.com/user-attachments/assets/179c98d0-11bd-4d13-bb52-b72b7126475e" />
+
