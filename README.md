@@ -5,10 +5,6 @@
 ## Project Overview
 This project analyzes sales performance for ALF retail limited  using transactional sales data from 2023–2024.
 
-## Dashboard Preview
-
-![ALF Retail Sales Dashboard](screenshots/alf-dashboard.png)
-
 ## Project Summary
 This project analyzes transactional sales data for ALF retail limited to reveal performance trends, revenue drivers, and actionable recommendations using Power BI and Excel.
 
@@ -34,6 +30,9 @@ This project analyzes transactional sales data for ALF retail limited to reveal 
 ## Deliverables
 - Interactive Power BI dashboard
 - Executive summary report with insights and recommendations
+
+
+<img width="1553" height="734" alt="ALF dashboard" src="https://github.com/user-attachments/assets/93dd39cc-22ce-402d-9d12-ce65ced5fdf8" />
 
 
 
