@@ -32,6 +32,7 @@ This project analyzes transactional sales data for ALF retail limited to reveal 
 - Executive summary report with insights and recommendations
 
 
+ ## Project Dashboard
 <img width="1553" height="734" alt="ALF dashboard" src="https://github.com/user-attachments/assets/93dd39cc-22ce-402d-9d12-ce65ced5fdf8" />
 
 
